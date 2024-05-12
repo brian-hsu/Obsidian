@@ -1,14 +1,38 @@
 {
   "main": {
-    "id": "81946a2492b579eb",
+    "id": "7a27bb97149cb416",
     "type": "split",
     "children": [
       {
-        "id": "b8874a3bd5f67d58",
+        "id": "3e78a09c89ea6a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "15585d2f4728e112",
+            "id": "9ca125aeb35b761c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "aace72709dadfd7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "23ca72b72eaaf401",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f054d9fbe3c5934",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,36 +43,27 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4631a40974c0959d",
+    "id": "5ac4e2ca614942c9",
     "type": "split",
     "children": [
       {
-        "id": "26c70654ab24f757",
+        "id": "59c278aabae45b27",
         "type": "tabs",
         "children": [
           {
-            "id": "ebcddf631ec3bbd7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f85276bb9ad8520d",
+            "id": "11137bb5d6246fc1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#黃金的光芒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,29 +73,48 @@
             }
           },
           {
-            "id": "422d168ab2f8756d",
+            "id": "541e41cc0596a5d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "87da0068a456b76f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a767737fd5e6baeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
-    "id": "41f5c15c27407d53",
+    "id": "0b18559720f283bb",
     "type": "split",
     "children": [
       {
-        "id": "d09995e67f80cb87",
+        "id": "c9370149b2bdd3b3",
         "type": "tabs",
         "children": [
           {
-            "id": "2870682bd2ad17cb",
+            "id": "97c866f9f217c39e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +131,7 @@
             }
           },
           {
-            "id": "889fe4262ab11362",
+            "id": "575af466d9bdd397",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,18 +143,18 @@
             }
           },
           {
-            "id": "7ff1b6b4ced3aaaf",
+            "id": "463c4d2d117655d9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "d4c3ec49df755f77",
+            "id": "b73b147f0d132ce8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,12 +163,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,9 +177,61 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "15585d2f4728e112",
-  "lastOpenFiles": []
+  "active": "8f054d9fbe3c5934",
+  "lastOpenFiles": [
+    "test_for_windows_add_md.md",
+    "0. 目錄.md",
+    "2024-02-29.md",
+    "car play and android auto.md",
+    "WebTripPlanner Bus RT info - Test Cases.md",
+    "ERH.md",
+    "WEB trip plan.md",
+    "email check.md",
+    "group name - hotfix v119.2.md",
+    "Carpool group.md",
+    "TripPlanner improvements - Test Cases.md",
+    "carpool",
+    "Sprint Task/sprint119.md",
+    "Functions/driver cancels the trip because the rider didn't purchase ERH.md",
+    "01字首 pro, pre, fore, ante.md",
+    "tmp1.md",
+    "B1/forearm.md",
+    "files/Pasted image 20240315105441.png",
+    "A2/previous 先前的.md",
+    "files/Pasted image 20240315105043.png",
+    "B2/precaution 預防措施.md",
+    "B2/predetermine 預先決定.md",
+    "B2/preoccupy 使全神貫注.md",
+    "files/Pasted image 20240315103241.png",
+    "B2/files/Pasted image 20240315102718.png",
+    "files/Pasted image 20240315095529.png",
+    "files/Pasted image 20240314182436.png",
+    "files/Pasted image 20240315102007.png",
+    "B2/files",
+    "B2/preview 預覽.md",
+    "B1/predict 預測.md",
+    "B1/profile 輪廓.md",
+    "A2/progress 進步.md",
+    "files",
+    "B1/protect 保護.md",
+    "A2/proverb 諺語.md",
+    "A2",
+    "B2",
+    "B1",
+    "B1/files/Pasted image 20240309225357.png",
+    "B1/files",
+    "B2/files/Pasted image 20240309102055.png",
+    "A1",
+    "改變世界史的12種新材料/files/Pasted image 20240308194122.png",
+    "改變世界史的12種新材料/files",
+    "改變世界史的12種新材料",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Mind map 1.canvas"
+  ]
 }
